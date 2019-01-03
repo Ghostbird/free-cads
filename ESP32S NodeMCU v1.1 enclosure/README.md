@@ -27,7 +27,3 @@ Note: The AMF exports are not aligned with the base plane. In Slic3r I usually a
 ## Printing
 
 Printed with an Original Prusa i3 Mk3 using PLA
-
-
-Note: At the time of writing, only an older version of the one with headers has been printed.
-
